@@ -1,0 +1,75 @@
+.alert-blog {
+	float: right;
+	width: 85%;
+	margin-right: 1%	
+}
+
+.conteudo-privado {
+	margin-left: 15%;
+	margin-right: 1%;
+	width: 85%;
+	float: right;
+}
+
+.form-conteudo {
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+.form-conteudo td {
+	padding: 5;
+}
+
+.table-privado {
+	width: 65%;
+	margin-left: 15%;
+	margin-top: 10%;
+}
+
+.painel-postagem {
+	margin-left: 3%; 
+	width: 75%; 
+	float: left;
+	margin-top: 0.5%;
+}
+
+.painel-comentarios {
+	float: left;
+	margin-left: 18%;
+	width: 40%;
+	margin-top: 1%;
+}
+
+.painel-realiza-comentario {
+	float: left;
+	margin-left: 18%;
+	width: 40%;
+	margin-top: 3%;
+}
+
+.painel-menu {
+	width: 18%;
+	margin-right: 3%;
+	float: right;
+	margin-top: 0.5%;
+}
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+.footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+
